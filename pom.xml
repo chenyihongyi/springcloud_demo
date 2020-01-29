@@ -95,6 +95,8 @@
         <module>springcloud_consumer_dept_80</module>
         <module>springcloud_eureka_7001</module>
         <module>springcloud_provider_dept_8001</module>
+        <module>springcloud_eureka_7002</module>
+        <module>springcloud_eureka_7003</module>
     </modules>
 
 </project>
