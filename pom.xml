@@ -99,6 +99,7 @@
         <module>springcloud_eureka_7003</module>
         <module>springcloud_provider_dept_8002</module>
         <module>springcloud_provider_dept_8003</module>
+        <module>springcloud_zuul_gateway_9527</module>
     </modules>
 
 </project>
